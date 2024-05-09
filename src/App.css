@@ -1,0 +1,13 @@
+.App{
+  border:1px black solid;
+text-align: center;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+  height: 500px;
+  width: 500px;
+  padding: 10px;
+margin-left: 190px;
+}
+
